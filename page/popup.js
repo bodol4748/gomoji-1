@@ -1,16 +1,4 @@
-// var value = "";
-// chrome.storage.onChanged.addListener(function (changes, namespace) {
-//     for (let [key, { oldValue, newValue }] of Object.entries(changes)) {
-//         var userEmoji = value.split();
-//         $.each(userEmoji, function(index, element){
-//             if(newValue == element){
-//                 return;
-//             }
-//         });
-//         value = oldValue + newValue;
-//     }
-// });
-//add Emoji in copyArea
+//emoji Click Event function
 function ClickEmoji(){
     //현재 copyArea에 있는 value를 가져오고 그 뒤에 클릭한 이모지를 덧붙임
     var currentCopy = $("#copyArea").val();
@@ -18,6 +6,12 @@ function ClickEmoji(){
     $("#copyArea").attr('value', newCopy);
 
     // chrome storage에 최근 사용한 emoji 저장
+    /*
+    2021-12-05
+    수정 보완 필요
+    처음 앱을 시작하면 최근 이모지에 undifined라고 뜨고
+    최근 이모지가 하나밖에 저장안됨
+    */
     newEmoji = this.innerHTML;
     chrome.storage.sync.set({'user': newEmoji}, function() { 
         loadEmoji(newEmoji, "#useEmojiList")
