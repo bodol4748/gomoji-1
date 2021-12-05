@@ -7,7 +7,6 @@ function ClickEmoji(){
 
     // chrome storage에 최근 사용한 emoji 저장
     /*
-    2021-12-05
     수정 보완 필요
     처음 앱을 시작하면 최근 이모지에 undifined라고 뜨고
     최근 이모지가 하나밖에 저장안됨
@@ -17,7 +16,6 @@ function ClickEmoji(){
         loadEmoji(newEmoji, "#useEmojiList")
     });
     /*
-    2021-12-04
     copyArea에 텍스트를 입력하면 클릭한 이모지가 덧붙여지지 않는 버그발생
     clickEvent는 실행이 되는데 덧붙여지지 않음
     */
@@ -82,7 +80,6 @@ function ClickSearch(){
         //json의 요소를 하나씩 탐색
         $.each(data, function(entryIndex, entry) {
             /*
-            2021-12-05
             검색속도 향상을 위해서는 mean을 배열로 구분하지말고
             '/'문자(혹은 다른 구분자) 통해 구분하여 하나의 문자로 만든 후
             정규식을 통해 비교하면 더욱 빠르게 비교 가능할 것 같음
