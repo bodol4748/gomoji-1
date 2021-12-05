@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+   
+    "name": "Gomoji",
+    "description": "Collection of emojis",
+    "version": "1.0",
+   
+    "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "./page/popup.html"
+    },
+    "permissions": [
+      "activeTab",
+      "storage"
+    ],
+    "content_security_policy": "script-src 'self' 'unsafe-eval' https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js; object-src 'self'"
+  }

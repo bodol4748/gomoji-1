@@ -1,0 +1,55 @@
+  header{
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial;
+    margin: 30px;
+  }
+
+  nav{
+    overflow: hidden;
+    width: 400px;
+  }
+
+  nav li{
+    float : left;
+    clear: right;
+    margin: 10px;
+    padding: 5px;
+    list-style: none;
+    background: orange;
+  }
+
+  nav div{
+    float: right;
+  }
+
+  nav li:hover{
+    background-color: yellow;
+  }
+  
+  nav li:active{
+    background-color: #DFEE00;
+    box-shadow: 5px 5px 5px gray inset;
+  }
+  
+  #emojiList, #useEmojiList{
+      font-size: 25px;
+      margin: 15px;
+  }
+
+  header{
+    background-color: #DFEE00;
+  }
+
+  footer{
+    background-color: #DFEE00;
+    position:fixed;
+    min-width: 100%;
+    max-width:none;
+    bottom:0px;
+  }
+
+  body{
+    height: auto;
+    width: auto;
+  }

@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+  <head>
+    <link rel="stylesheet" href="./popup.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  </head>
+  <body>
+    <div class="container">
+      <header class="row">
+        Gomoji
+      </header>
+  
+      <div class="row">
+        <input id="searchArea" type="text">
+        <button id="searchBtn">Search</button>
+      </div>
+  
+      <nav class="row">
+          <ul id="navList">
+            <li id="all">All</li>
+            <li id="face">Face</li>
+            <li id="animal">Animals</li>
+            <li id="food">Food</li>
+          </ul>
+      </nav>
+
+
+      <h3>Recent</h3>
+      <div class="row" id="useEmojiList"> 
+      </div>
+  
+      <h3>Emoji</h3>
+      <div class="content row" id="emojiList">
+      </div>
+
+      <footer class="row">
+        <div class="output">
+          <input id="copyArea" type="text">
+          <button id="copyBtn">Copy</button>
+        </div>
+      </footer>
+  
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script type="text/javascript" src="../data/emoji.json"></script>
+    <script type="text/javascript" src="./popup.js"></script>
+  </body>
+</html>
