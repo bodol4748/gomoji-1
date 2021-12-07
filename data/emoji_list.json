@@ -2217,7 +2217,7 @@
 			" 흔드는 손"
 		],
 		"subgroup": " hand-fingers-open",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤚",
@@ -2230,7 +2230,7 @@
 			" 손바닥"
 		],
 		"subgroup": " hand-fingers-open",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🖐",
@@ -2245,7 +2245,7 @@
 			" 쫙 편 손바닥"
 		],
 		"subgroup": " hand-fingers-open",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "✋",
@@ -2257,7 +2257,7 @@
 			" 손바닥"
 		],
 		"subgroup": " hand-fingers-open",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🖖",
@@ -2272,7 +2272,7 @@
 			" 손 모양"
 		],
 		"subgroup": " hand-fingers-open",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👌",
@@ -2284,7 +2284,7 @@
 			" 오케이를 표시한 손"
 		],
 		"subgroup": " hand-fingers-partial",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤏",
@@ -2295,7 +2295,7 @@
 			" 적은 양을 나타내는 손"
 		],
 		"subgroup": " hand-fingers-partial",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "✌",
@@ -2308,7 +2308,7 @@
 			" 찌"
 		],
 		"subgroup": " hand-fingers-partial",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤞",
@@ -2326,7 +2326,7 @@
 			" 크로스"
 		],
 		"subgroup": " hand-fingers-partial",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤟",
@@ -2339,7 +2339,7 @@
 			" 사랑해"
 		],
 		"subgroup": " hand-fingers-partial",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤘",
@@ -2355,7 +2355,7 @@
 			" 힙합"
 		],
 		"subgroup": " hand-fingers-partial",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤙",
@@ -2369,7 +2369,7 @@
 			" 전화를 걸라는 손 모양"
 		],
 		"subgroup": " hand-fingers-partial",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👈",
@@ -2388,7 +2388,7 @@
 			" 왼쪽을 가리키는 손등"
 		],
 		"subgroup": " hand-single-finger",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👉",
@@ -2407,7 +2407,7 @@
 			" 오른쪽을 가리키는 손등"
 		],
 		"subgroup": " hand-single-finger",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👆",
@@ -2427,7 +2427,7 @@
 			" 위쪽을 가리키는 손등"
 		],
 		"subgroup": " hand-single-finger",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🖕",
@@ -2440,7 +2440,7 @@
 			" 중지"
 		],
 		"subgroup": " hand-single-finger",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👇",
@@ -2460,7 +2460,7 @@
 			" 아래쪽을 가리키는 손등"
 		],
 		"subgroup": " hand-single-finger",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "☝",
@@ -2476,7 +2476,7 @@
 			" 위쪽을 가리키는 손"
 		],
 		"subgroup": " hand-single-finger",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👍",
@@ -2492,7 +2492,7 @@
 			" 최고"
 		],
 		"subgroup": " hand-fingers-closed",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👎",
@@ -2508,7 +2508,7 @@
 			" 최악"
 		],
 		"subgroup": " hand-fingers-closed",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "✊",
@@ -2523,7 +2523,7 @@
 			" 주먹"
 		],
 		"subgroup": " hand-fingers-closed",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👊",
@@ -2538,7 +2538,7 @@
 			" 펀치"
 		],
 		"subgroup": " hand-fingers-closed",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤛",
@@ -2552,7 +2552,7 @@
 			" 주먹"
 		],
 		"subgroup": " hand-fingers-closed",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤜",
@@ -2566,7 +2566,7 @@
 			" 주먹"
 		],
 		"subgroup": " hand-fingers-closed",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👏",
@@ -2580,7 +2580,7 @@
 			" 손뼉 치기"
 		],
 		"subgroup": " hands",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🙌",
@@ -2598,7 +2598,7 @@
 			" 하이파이브"
 		],
 		"subgroup": " hands",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👐",
@@ -2611,7 +2611,7 @@
 			" 펼친 두 손"
 		],
 		"subgroup": " hands",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤲",
@@ -2622,7 +2622,7 @@
 			" 내민 두 손"
 		],
 		"subgroup": " hands",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤝",
@@ -2639,7 +2639,7 @@
 			" 회의"
 		],
 		"subgroup": " hands",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🙏",
@@ -2656,7 +2656,7 @@
 			" 합장"
 		],
 		"subgroup": " hands",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "✍",
@@ -2669,7 +2669,7 @@
 			" 연필 쥔 손"
 		],
 		"subgroup": " hand-prop",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "💅",
@@ -2684,7 +2684,7 @@
 			" 매니큐어"
 		],
 		"subgroup": " hand-prop",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤳",
@@ -2698,7 +2698,7 @@
 			" 카메라"
 		],
 		"subgroup": " hand-prop",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "💪",
@@ -2715,7 +2715,7 @@
 			" 힘"
 		],
 		"subgroup": " body-parts",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🦾",
@@ -2727,7 +2727,7 @@
 			" 인공 팔"
 		],
 		"subgroup": " body-parts",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🦿",
@@ -2740,7 +2740,7 @@
 			" 접근성"
 		],
 		"subgroup": " body-parts",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🦵",
@@ -2753,7 +2753,7 @@
 			" 한쪽 다리"
 		],
 		"subgroup": " body-parts",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🦶",
@@ -2767,7 +2767,7 @@
 			" 한쪽 발"
 		],
 		"subgroup": " body-parts",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👂",
@@ -2778,7 +2778,7 @@
 			" 몸"
 		],
 		"subgroup": " body-parts",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🦻",
@@ -2791,7 +2791,7 @@
 			" 청각장애"
 		],
 		"subgroup": " body-parts",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👃",
@@ -2802,7 +2802,7 @@
 			" 코"
 		],
 		"subgroup": " body-parts",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧠",
@@ -2812,7 +2812,7 @@
 			"뇌"
 		],
 		"subgroup": " body-parts",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🦷",
@@ -2823,7 +2823,7 @@
 			" 치과"
 		],
 		"subgroup": " body-parts",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🦴",
@@ -2834,7 +2834,7 @@
 			" 뼈다귀"
 		],
 		"subgroup": " body-parts",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👀",
@@ -2847,7 +2847,7 @@
 			" 왕눈이 눈알"
 		],
 		"subgroup": " body-parts",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👁",
@@ -2860,7 +2860,7 @@
 			" 얼굴"
 		],
 		"subgroup": " body-parts",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👅",
@@ -2872,7 +2872,7 @@
 			" 혀"
 		],
 		"subgroup": " body-parts",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👄",
@@ -2883,7 +2883,7 @@
 			" 입"
 		],
 		"subgroup": " body-parts",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👶",
@@ -2894,7 +2894,7 @@
 			" 유아"
 		],
 		"subgroup": " person",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧒",
@@ -2906,7 +2906,7 @@
 			"어린이"
 		],
 		"subgroup": " person",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👦",
@@ -2917,7 +2917,7 @@
 			" 소년"
 		],
 		"subgroup": " person",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👧",
@@ -2930,7 +2930,7 @@
 			" 여자 아이"
 		],
 		"subgroup": " person",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧑",
@@ -2944,7 +2944,7 @@
 			" 성인"
 		],
 		"subgroup": " person",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👱",
@@ -2957,7 +2957,7 @@
 			" 금발인 사람"
 		],
 		"subgroup": " person",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧑",
@@ -2974,7 +2974,7 @@
 			" 여성"
 		],
 		"subgroup": " person",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧑",
@@ -2986,7 +2986,7 @@
 			" 크리스마스"
 		],
 		"subgroup": " person",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👨",
@@ -2998,7 +2998,7 @@
 			" 성인"
 		],
 		"subgroup": " person",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧔",
@@ -3012,7 +3012,7 @@
 			" 수염 난 사람"
 		],
 		"subgroup": " person",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👱",
@@ -3027,7 +3027,7 @@
 			" 남자"
 		],
 		"subgroup": " person",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👨",
@@ -3042,7 +3042,7 @@
 			" 아기"
 		],
 		"subgroup": " person",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👩",
@@ -3054,7 +3054,7 @@
 			" 여자"
 		],
 		"subgroup": " person",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👱",
@@ -3069,7 +3069,7 @@
 			" 여자"
 		],
 		"subgroup": " person",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👩",
@@ -3084,7 +3084,7 @@
 			" 여자"
 		],
 		"subgroup": " person",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧓",
@@ -3099,7 +3099,7 @@
 			" 성인"
 		],
 		"subgroup": " person",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👴",
@@ -3114,7 +3114,7 @@
 			" 할아버지"
 		],
 		"subgroup": " person",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👵",
@@ -3129,7 +3129,7 @@
 			" 할머니"
 		],
 		"subgroup": " person",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🙍",
@@ -3141,7 +3141,7 @@
 			" 찌푸린 사람"
 		],
 		"subgroup": " person",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🙍",
@@ -3155,7 +3155,7 @@
 			" 찡그림"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🙍",
@@ -3169,7 +3169,7 @@
 			" 찡그림"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🙎",
@@ -3181,7 +3181,7 @@
 			" 뿌루퉁한 사람"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🙎",
@@ -3197,7 +3197,7 @@
 			" 심통"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🙎",
@@ -3212,7 +3212,7 @@
 			" 심통"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🙅",
@@ -3229,7 +3229,7 @@
 			" 엔쥐"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🙅",
@@ -3246,7 +3246,7 @@
 			" 엑스자"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🙅",
@@ -3263,7 +3263,7 @@
 			" 엑스자"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🙆",
@@ -3278,7 +3278,7 @@
 			" 오케이라는 제스처를 하는 사람"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🙆",
@@ -3295,7 +3295,7 @@
 			" 좋아"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🙆",
@@ -3312,7 +3312,7 @@
 			" 좋아"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "💁",
@@ -3328,7 +3328,7 @@
 			" 안내 데스크"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "💁",
@@ -3343,7 +3343,7 @@
 			" 젖힌 손"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "💁",
@@ -3358,7 +3358,7 @@
 			" 젖힌 손"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🙋",
@@ -3374,7 +3374,7 @@
 			" 한 손을 들고 즐거워하는 사람"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🙋",
@@ -3390,7 +3390,7 @@
 			" 한손"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🙋",
@@ -3406,7 +3406,7 @@
 			" 한손"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧏",
@@ -3423,7 +3423,7 @@
 			" 청력"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧏",
@@ -3435,7 +3435,7 @@
 			" 청각장애가 있는 남자"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧏",
@@ -3447,7 +3447,7 @@
 			" 청각장애가 있는 여자"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🙇",
@@ -3462,7 +3462,7 @@
 			" 절하는 사람"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🙇",
@@ -3480,7 +3480,7 @@
 			" 큰절"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🙇",
@@ -3498,7 +3498,7 @@
 			" 큰절"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤦",
@@ -3515,7 +3515,7 @@
 			" 이럴 수가"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤦",
@@ -3531,7 +3531,7 @@
 			" 이마에 손"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤦",
@@ -3547,7 +3547,7 @@
 			" 이마에 손"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤷",
@@ -3565,7 +3565,7 @@
 			" 잘 모르겠음"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤷",
@@ -3582,7 +3582,7 @@
 			" 어깨를 으쓱하는 남자"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤷",
@@ -3599,7 +3599,7 @@
 			" 어깨를 으쓱하는 여자"
 		],
 		"subgroup": " person-gesture",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧑",
@@ -3616,7 +3616,7 @@
 			" 테라피스트"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👨",
@@ -3637,7 +3637,7 @@
 			" 테라피스트"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👩",
@@ -3658,7 +3658,7 @@
 			" 테라피스트"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧑",
@@ -3670,7 +3670,7 @@
 			" 학생"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👨",
@@ -3685,7 +3685,7 @@
 			" 학생"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👩",
@@ -3700,7 +3700,7 @@
 			" 학생"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧑",
@@ -3713,7 +3713,7 @@
 			" 교수"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👨",
@@ -3731,7 +3731,7 @@
 			" 선생님"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👩",
@@ -3749,7 +3749,7 @@
 			" 여자"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧑",
@@ -3760,7 +3760,7 @@
 			" 판사"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👨",
@@ -3775,7 +3775,7 @@
 			" 판사"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👩",
@@ -3789,7 +3789,7 @@
 			" 판사"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧑",
@@ -3802,7 +3802,7 @@
 			" 농장 주인"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👨",
@@ -3817,7 +3817,7 @@
 			" 농장 주인"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👩",
@@ -3832,7 +3832,7 @@
 			" 여자"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧑",
@@ -3844,7 +3844,7 @@
 			" 주방장"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👨",
@@ -3858,7 +3858,7 @@
 			" 주방장"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👩",
@@ -3872,7 +3872,7 @@
 			" 주방장"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧑",
@@ -3886,7 +3886,7 @@
 			" 정비공"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👨",
@@ -3904,7 +3904,7 @@
 			" 정비공"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👩",
@@ -3922,7 +3922,7 @@
 			" 정비공"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧑",
@@ -3937,7 +3937,7 @@
 			" 직원"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👨",
@@ -3954,7 +3954,7 @@
 			" 직원"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👩",
@@ -3971,7 +3971,7 @@
 			" 직원"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧑",
@@ -3988,7 +3988,7 @@
 			" 회사원"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👨",
@@ -4009,7 +4009,7 @@
 			" 화이트칼라"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👩",
@@ -4030,7 +4030,7 @@
 			" 화이트칼라"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧑",
@@ -4047,7 +4047,7 @@
 			" 화학자"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👨",
@@ -4068,7 +4068,7 @@
 			" 화학자"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👩",
@@ -4089,7 +4089,7 @@
 			" 화학자"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧑",
@@ -4106,7 +4106,7 @@
 			" 코딩"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👨",
@@ -4128,7 +4128,7 @@
 			" 프로그래머"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👩",
@@ -4150,7 +4150,7 @@
 			" 프로그래머"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧑",
@@ -4165,7 +4165,7 @@
 			" 마이크"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👨",
@@ -4182,7 +4182,7 @@
 			" 마이크"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👩",
@@ -4199,7 +4199,7 @@
 			" 여자"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧑",
@@ -4211,7 +4211,7 @@
 			" 화가"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👨",
@@ -4226,7 +4226,7 @@
 			" 화가"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👩",
@@ -4241,7 +4241,7 @@
 			" 화가"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧑",
@@ -4253,7 +4253,7 @@
 			" 파일럿"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👨",
@@ -4267,7 +4267,7 @@
 			" 파일럿"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👩",
@@ -4281,7 +4281,7 @@
 			" 파일럿"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧑",
@@ -4292,7 +4292,7 @@
 			" 우주비행사"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👨",
@@ -4306,7 +4306,7 @@
 			" 우주인"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👩",
@@ -4320,7 +4320,7 @@
 			" 우주인"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧑",
@@ -4331,7 +4331,7 @@
 			" 소방차"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👨",
@@ -4345,7 +4345,7 @@
 			" 화재"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👩",
@@ -4359,7 +4359,7 @@
 			" 화재"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👮",
@@ -4371,7 +4371,7 @@
 			" 경찰관"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👮",
@@ -4386,7 +4386,7 @@
 			" 남자"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👮",
@@ -4401,7 +4401,7 @@
 			" 여자"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🕵",
@@ -4414,7 +4414,7 @@
 			" 형사"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🕵",
@@ -4429,7 +4429,7 @@
 			" 형사"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🕵",
@@ -4445,7 +4445,7 @@
 			" 형사"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "💂",
@@ -4456,7 +4456,7 @@
 			" 근위병"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "💂",
@@ -4469,7 +4469,7 @@
 			" 남자"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "💂",
@@ -4482,7 +4482,7 @@
 			" 여자"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👷",
@@ -4495,7 +4495,7 @@
 			" 안전모"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👷",
@@ -4509,7 +4509,7 @@
 			" 안전모"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👷",
@@ -4523,7 +4523,7 @@
 			" 안전모"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤴",
@@ -4534,7 +4534,7 @@
 			" 프린스"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👸",
@@ -4549,7 +4549,7 @@
 			" 프린세스"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👳",
@@ -4562,7 +4562,7 @@
 			" 터번을 쓰고 있는 사람"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👳",
@@ -4577,7 +4577,7 @@
 			" 터번을 쓰고 있는 남자"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👳",
@@ -4592,7 +4592,7 @@
 			" 터번을 쓰고 있는 여자"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👲",
@@ -4610,7 +4610,7 @@
 			" 중국 전통 모자를 쓴 남자"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧕",
@@ -4625,7 +4625,7 @@
 			" 히잡"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤵",
@@ -4642,7 +4642,7 @@
 			" 턱시도를 입은 사람"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤵",
@@ -4655,7 +4655,7 @@
 			" 턱시도를 입은 여자"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤵",
@@ -4669,7 +4669,7 @@
 			" 턱시도를 입은 남자"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👰",
@@ -4685,7 +4685,7 @@
 			" 신부"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👰",
@@ -4700,7 +4700,7 @@
 			" 여자"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👰",
@@ -4714,7 +4714,7 @@
 			" 베일을 쓴 남자"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤰",
@@ -4727,7 +4727,7 @@
 			" 임신부"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤱",
@@ -4741,7 +4741,7 @@
 			" 아기"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👼",
@@ -4755,7 +4755,7 @@
 			" 천사"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🎅",
@@ -4772,7 +4772,7 @@
 			" 크리스마스"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤶",
@@ -4789,7 +4789,7 @@
 			" 크리스마스"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🦸",
@@ -4805,7 +4805,7 @@
 			" 히어로"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🦸",
@@ -4821,7 +4821,7 @@
 			" 히어로"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🦸",
@@ -4840,7 +4840,7 @@
 			" 히어로"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🦹",
@@ -4857,7 +4857,7 @@
 			" 초능력"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🦹",
@@ -4875,7 +4875,7 @@
 			" 초능력"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🦹",
@@ -4894,7 +4894,7 @@
 			" 초능력"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧙",
@@ -4908,7 +4908,7 @@
 			" 마법사"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧙",
@@ -4920,7 +4920,7 @@
 			" 마법사"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧙",
@@ -4933,7 +4933,7 @@
 			" 여자 마법사"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧚",
@@ -4945,7 +4945,7 @@
 			"요정"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧚",
@@ -4956,7 +4956,7 @@
 			"남자 요정"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧚",
@@ -4966,7 +4966,7 @@
 			"여자 요정"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧛",
@@ -4979,7 +4979,7 @@
 			" 언데드"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧛",
@@ -4992,7 +4992,7 @@
 			" 언데드"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧛",
@@ -5004,7 +5004,7 @@
 			" 여자 뱀파이어"
 		],
 		"subgroup": " person-role",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧜",
@@ -5016,7 +5016,7 @@
 			"인어"
 		],
 		"subgroup": "person-fantasy",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧜",
@@ -5026,7 +5026,7 @@
 			"남자 인어"
 		],
 		"subgroup": "person-fantasy",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧜",
@@ -5036,7 +5036,7 @@
 			"여자 인어"
 		],
 		"subgroup": "person-fantasy",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧝",
@@ -5046,7 +5046,7 @@
 			"엘프"
 		],
 		"subgroup": "person-fantasy",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧝",
@@ -5056,7 +5056,7 @@
 			"남자 엘프"
 		],
 		"subgroup": "person-fantasy",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧝",
@@ -5066,7 +5066,7 @@
 			"여자 엘프"
 		],
 		"subgroup": "person-fantasy",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧞",
@@ -5077,7 +5077,7 @@
 			" 지니"
 		],
 		"subgroup": "person-fantasy",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧞",
@@ -5088,7 +5088,7 @@
 			" 정령"
 		],
 		"subgroup": "person-fantasy",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧞",
@@ -5099,7 +5099,7 @@
 			" 정령"
 		],
 		"subgroup": "person-fantasy",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧟",
@@ -5112,7 +5112,7 @@
 			" 좀비"
 		],
 		"subgroup": "person-fantasy",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧟",
@@ -5125,7 +5125,7 @@
 			" 워킹 데드"
 		],
 		"subgroup": "person-fantasy",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧟",
@@ -5138,7 +5138,7 @@
 			" 워킹데드"
 		],
 		"subgroup": "person-fantasy",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "💆",
@@ -5152,7 +5152,7 @@
 			" 마사지 받는 사람"
 		],
 		"subgroup": "person-fantasy",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "💆",
@@ -5168,7 +5168,7 @@
 			" 지압"
 		],
 		"subgroup": "person-fantasy",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "💆",
@@ -5184,7 +5184,7 @@
 			" 지압"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "💇",
@@ -5199,7 +5199,7 @@
 			" 헤어컷"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "💇",
@@ -5213,7 +5213,7 @@
 			" 헤어컷"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "💇",
@@ -5227,7 +5227,7 @@
 			" 헤어컷"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🚶",
@@ -5241,7 +5241,7 @@
 			" 보행자용"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🚶",
@@ -5257,7 +5257,7 @@
 			" 워킹"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🚶",
@@ -5273,7 +5273,7 @@
 			" 워킹"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧍",
@@ -5285,7 +5285,7 @@
 			" 서 있는 사람"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧍",
@@ -5297,7 +5297,7 @@
 			" 서 있는 남자"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧍",
@@ -5309,7 +5309,7 @@
 			" 여자"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧎",
@@ -5321,7 +5321,7 @@
 			" 무릎을 꿇은 사람"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧎",
@@ -5333,7 +5333,7 @@
 			" 무릎을 꿇은 남자"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧎",
@@ -5345,7 +5345,7 @@
 			" 여자"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧑",
@@ -5358,7 +5358,7 @@
 			" 지팡이를 든 사람"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👨",
@@ -5373,7 +5373,7 @@
 			" 지팡이를 든 남자"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👩",
@@ -5388,7 +5388,7 @@
 			" 지팡이를 든 여자"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧑",
@@ -5401,7 +5401,7 @@
 			" 접근성"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👨",
@@ -5416,7 +5416,7 @@
 			" 휠체어"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👩",
@@ -5431,7 +5431,7 @@
 			" 휠체어"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧑",
@@ -5444,7 +5444,7 @@
 			" 접근성"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👨",
@@ -5459,7 +5459,7 @@
 			" 휠체어"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👩",
@@ -5474,7 +5474,7 @@
 			" 휠체어"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🏃",
@@ -5489,7 +5489,7 @@
 			" 마라톤"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🏃",
@@ -5505,7 +5505,7 @@
 			" 마라톤"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🏃",
@@ -5521,7 +5521,7 @@
 			" 마라톤"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "💃",
@@ -5537,7 +5537,7 @@
 			" 춤추는 여자"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🕺",
@@ -5554,7 +5554,7 @@
 			" 춤추는 남자"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🕴",
@@ -5569,7 +5569,7 @@
 			" 정장"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👯",
@@ -5582,7 +5582,7 @@
 			" 토끼 귀를 쓴 여자"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👯",
@@ -5599,7 +5599,7 @@
 			" 토끼 귀를 쓰고 춤추는 남자들"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👯",
@@ -5616,7 +5616,7 @@
 			" 토끼 귀를 쓰고 춤추는 여자들"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧖",
@@ -5628,7 +5628,7 @@
 			" 사우나 하는 사람"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧖",
@@ -5640,7 +5640,7 @@
 			" 사우나 하는 남자"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧖",
@@ -5652,7 +5652,7 @@
 			" 사우나 하는 여자"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧗",
@@ -5663,7 +5663,7 @@
 			" 클라이밍하는 사람"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧗",
@@ -5674,7 +5674,7 @@
 			" 클라이밍하는 남자"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧗",
@@ -5685,7 +5685,7 @@
 			" 클라이밍하는 여자"
 		],
 		"subgroup": " person-activity",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤺",
@@ -5701,7 +5701,7 @@
 			" 펜싱하는 사람"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🏇",
@@ -5716,7 +5716,7 @@
 			" 승마"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "⛷",
@@ -5729,7 +5729,7 @@
 			" 스키타는 사람"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🏂",
@@ -5744,7 +5744,7 @@
 			" 운동"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🏌",
@@ -5758,7 +5758,7 @@
 			" 필드"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🏌",
@@ -5772,7 +5772,7 @@
 			" 스윙"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🏌",
@@ -5786,7 +5786,7 @@
 			" 스윙"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🏄",
@@ -5798,7 +5798,7 @@
 			" 스포츠"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🏄",
@@ -5812,7 +5812,7 @@
 			" 수상스포츠"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🏄",
@@ -5826,7 +5826,7 @@
 			" 수상스포츠"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🚣",
@@ -5839,7 +5839,7 @@
 			" 보트"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🚣",
@@ -5855,7 +5855,7 @@
 			" 보트"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🚣",
@@ -5871,7 +5871,7 @@
 			" 보트"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🏊",
@@ -5885,7 +5885,7 @@
 			" 운동"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🏊",
@@ -5900,7 +5900,7 @@
 			" 헤엄"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🏊",
@@ -5915,7 +5915,7 @@
 			" 헤엄"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "⛹",
@@ -5928,7 +5928,7 @@
 			" 농구선수"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "⛹",
@@ -5942,7 +5942,7 @@
 			" 남자"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "⛹",
@@ -5956,7 +5956,7 @@
 			" 여자"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🏋",
@@ -5969,7 +5969,7 @@
 			" 역도선수"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🏋",
@@ -5982,7 +5982,7 @@
 			" 역도선수"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🏋",
@@ -5995,7 +5995,7 @@
 			" 역도선수"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🚴",
@@ -6008,7 +6008,7 @@
 			" 자전거 타는 사람"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🚴",
@@ -6024,7 +6024,7 @@
 			" 자전거 타는 남자"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🚴",
@@ -6040,7 +6040,7 @@
 			" 자전거 타는 여자"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🚵",
@@ -6055,7 +6055,7 @@
 			" 산악 자전거 타는 사람"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🚵",
@@ -6074,7 +6074,7 @@
 			" 자전거"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🚵",
@@ -6093,7 +6093,7 @@
 			" 자전거"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤸",
@@ -6107,7 +6107,7 @@
 			" 풍차돌리기"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤸",
@@ -6122,7 +6122,7 @@
 			" 풍차돌리기"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤸",
@@ -6137,7 +6137,7 @@
 			" 풍차돌리기"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤼",
@@ -6152,7 +6152,7 @@
 			" 스포츠"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤼",
@@ -6166,7 +6166,7 @@
 			" 시합"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤼",
@@ -6180,7 +6180,7 @@
 			" 시합"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤽",
@@ -6194,7 +6194,7 @@
 			" 워터폴로"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤽",
@@ -6209,7 +6209,7 @@
 			" 워터폴로"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤽",
@@ -6224,7 +6224,7 @@
 			" 워터폴로"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤾",
@@ -6239,7 +6239,7 @@
 			" 핸드볼하는 사람"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤾",
@@ -6253,7 +6253,7 @@
 			" 핸드볼하는 남자"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤾",
@@ -6267,7 +6267,7 @@
 			" 핸드볼하는 여자"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤹",
@@ -6282,7 +6282,7 @@
 			" 저글링하는 사람"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤹",
@@ -6295,7 +6295,7 @@
 			" 저글링하는 남자"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🤹",
@@ -6308,7 +6308,7 @@
 			" 저글링하는 여자"
 		],
 		"subgroup": " person-sport",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧘",
@@ -6321,7 +6321,7 @@
 			" 요가"
 		],
 		"subgroup": " person-resting",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧘",
@@ -6334,7 +6334,7 @@
 			" 요가"
 		],
 		"subgroup": " person-resting",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧘",
@@ -6347,7 +6347,7 @@
 			" 요가"
 		],
 		"subgroup": " person-resting",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🛀",
@@ -6359,7 +6359,7 @@
 			" 욕조"
 		],
 		"subgroup": " person-resting",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🛌",
@@ -6372,7 +6372,7 @@
 			" 호텔"
 		],
 		"subgroup": " person-resting",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🧑",
@@ -6389,7 +6389,7 @@
 			" 커플"
 		],
 		"subgroup": " family",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👭",
@@ -6406,7 +6406,7 @@
 			" 친구들"
 		],
 		"subgroup": " family",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👫",
@@ -6424,7 +6424,7 @@
 			" 커플"
 		],
 		"subgroup": " family",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👬",
@@ -6444,7 +6444,7 @@
 			" 친구들"
 		],
 		"subgroup": " family",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "💏",
@@ -6456,7 +6456,7 @@
 			" 키스"
 		],
 		"subgroup": " family",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "💑",
@@ -6470,7 +6470,7 @@
 			" 연인"
 		],
 		"subgroup": " family",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👪",
@@ -6483,7 +6483,7 @@
 			" 엄마"
 		],
 		"subgroup": " family",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🗣",
@@ -6499,7 +6499,7 @@
 			" 얼굴"
 		],
 		"subgroup": " person-symbol",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👤",
@@ -6513,7 +6513,7 @@
 			" 상체"
 		],
 		"subgroup": " person-symbol",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👥",
@@ -6527,7 +6527,7 @@
 			" 상체"
 		],
 		"subgroup": " person-symbol",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "👣",
@@ -6542,7 +6542,7 @@
 			" 족적"
 		],
 		"subgroup": " person-symbol",
-		"group": "Smileys & Emotion"
+		"group": " People & Body"
 	},
 	{
 		"icon": "🦰",
@@ -6612,7 +6612,7 @@
 			" 원숭이띠"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐒",
@@ -6622,7 +6622,7 @@
 			" 원숭이"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦍",
@@ -6632,7 +6632,7 @@
 			" 동물"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦧",
@@ -6643,7 +6643,7 @@
 			" 유인원"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐶",
@@ -6658,7 +6658,7 @@
 			" 동물"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐕",
@@ -6672,7 +6672,7 @@
 			" 멍멍이"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦮",
@@ -6686,7 +6686,7 @@
 			" 접근성"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐕",
@@ -6700,7 +6700,7 @@
 			" 접근성"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐩",
@@ -6714,7 +6714,7 @@
 			" 푸들"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐺",
@@ -6726,7 +6726,7 @@
 			" 동물"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦊",
@@ -6738,7 +6738,7 @@
 			" 여우"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦝",
@@ -6751,7 +6751,7 @@
 			" 호기심"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐱",
@@ -6764,7 +6764,7 @@
 			" 동물"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐈",
@@ -6778,7 +6778,7 @@
 			" 집사"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐈",
@@ -6792,7 +6792,7 @@
 			" 불행"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦁",
@@ -6805,7 +6805,7 @@
 			" 얼굴"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐯",
@@ -6818,7 +6818,7 @@
 			" 호랑이띠"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐅",
@@ -6829,7 +6829,7 @@
 			" 호랑이"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐆",
@@ -6840,7 +6840,7 @@
 			" 표범"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐴",
@@ -6853,7 +6853,7 @@
 			" 말띠"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐎",
@@ -6867,7 +6867,7 @@
 			" 말"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦄",
@@ -6878,7 +6878,7 @@
 			" 유니콘"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦓",
@@ -6889,7 +6889,7 @@
 			" 줄무늬"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦌",
@@ -6899,7 +6899,7 @@
 			" 사슴"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐮",
@@ -6912,7 +6912,7 @@
 			" 소띠"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐂",
@@ -6926,7 +6926,7 @@
 			" 황소"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐃",
@@ -6939,7 +6939,7 @@
 			" 소"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐄",
@@ -6950,7 +6950,7 @@
 			" 젖소"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐷",
@@ -6963,7 +6963,7 @@
 			" 돼지띠"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐖",
@@ -6975,7 +6975,7 @@
 			" 돼지"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐗",
@@ -6988,7 +6988,7 @@
 			" 피그"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐽",
@@ -7001,7 +7001,7 @@
 			" 코"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐏",
@@ -7015,7 +7015,7 @@
 			" 숫양"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐑",
@@ -7027,7 +7027,7 @@
 			" 양"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐐",
@@ -7039,7 +7039,7 @@
 			" 염소"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐪",
@@ -7052,7 +7052,7 @@
 			" 동물"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐫",
@@ -7065,7 +7065,7 @@
 			" 쌍봉 낙타"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦙",
@@ -7082,7 +7082,7 @@
 			" 울"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦒",
@@ -7092,7 +7092,7 @@
 			"기린"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐘",
@@ -7102,7 +7102,7 @@
 			" 코끼리"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦏",
@@ -7112,7 +7112,7 @@
 			" 코뿔소"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦛",
@@ -7123,7 +7123,7 @@
 			" 하마"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐭",
@@ -7136,7 +7136,7 @@
 			" 쥐띠"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐁",
@@ -7147,7 +7147,7 @@
 			" 흰쥐"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐀",
@@ -7158,7 +7158,7 @@
 			" 쥐"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐹",
@@ -7171,7 +7171,7 @@
 			" 햄스터 얼굴"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐰",
@@ -7186,7 +7186,7 @@
 			" 토끼띠"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐇",
@@ -7199,7 +7199,7 @@
 			" 토끼"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐿",
@@ -7210,7 +7210,7 @@
 			" 얼룩다람쥐"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦔",
@@ -7221,7 +7221,7 @@
 			" 고슴도치"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦇",
@@ -7232,7 +7232,7 @@
 			" 뱀파이어"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐻",
@@ -7245,7 +7245,7 @@
 			" 동물"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐻",
@@ -7261,7 +7261,7 @@
 			" 흰곰"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐨",
@@ -7272,7 +7272,7 @@
 			" 코알라"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐼",
@@ -7285,7 +7285,7 @@
 			" 판다곰"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦥",
@@ -7298,7 +7298,7 @@
 			" 느린"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦦",
@@ -7311,7 +7311,7 @@
 			" 장난꾸러기"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦨",
@@ -7322,7 +7322,7 @@
 			" 스컹크"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦘",
@@ -7338,7 +7338,7 @@
 			" 호주"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦡",
@@ -7351,7 +7351,7 @@
 			" 오소리"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐾",
@@ -7365,7 +7365,7 @@
 			" 동물"
 		],
 		"subgroup": " animal-mammal",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦃",
@@ -7377,7 +7377,7 @@
 			" 터키"
 		],
 		"subgroup": "animal-bird",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐔",
@@ -7390,7 +7390,7 @@
 			" 치킨"
 		],
 		"subgroup": "animal-bird",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐓",
@@ -7401,7 +7401,7 @@
 			" 수탉"
 		],
 		"subgroup": "animal-bird",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐣",
@@ -7415,7 +7415,7 @@
 			" 알에서 깬 병아리"
 		],
 		"subgroup": "animal-bird",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐤",
@@ -7428,7 +7428,7 @@
 			" 아기 병아리"
 		],
 		"subgroup": "animal-bird",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐥",
@@ -7442,7 +7442,7 @@
 			" 정면을 향해 날개를 편 병아리"
 		],
 		"subgroup": "animal-bird",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐦",
@@ -7452,7 +7452,7 @@
 			" 새"
 		],
 		"subgroup": "animal-bird",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐧",
@@ -7463,7 +7463,7 @@
 			" 펭귄"
 		],
 		"subgroup": "animal-bird",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🕊",
@@ -7477,7 +7477,7 @@
 			" 평화"
 		],
 		"subgroup": "animal-bird",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦅",
@@ -7489,7 +7489,7 @@
 			" 조류"
 		],
 		"subgroup": "animal-bird",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦆",
@@ -7501,7 +7501,7 @@
 			" 조류"
 		],
 		"subgroup": "animal-bird",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦢",
@@ -7516,7 +7516,7 @@
 			" 조류"
 		],
 		"subgroup": "animal-bird",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦉",
@@ -7530,7 +7530,7 @@
 			" 조류"
 		],
 		"subgroup": "animal-bird",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦩",
@@ -7543,7 +7543,7 @@
 			" 홍학"
 		],
 		"subgroup": "animal-bird",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦚",
@@ -7560,7 +7560,7 @@
 			" 화려한"
 		],
 		"subgroup": "animal-bird",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦜",
@@ -7575,7 +7575,7 @@
 			" 해적"
 		],
 		"subgroup": "animal-bird",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐸",
@@ -7587,7 +7587,7 @@
 			" 동물"
 		],
 		"subgroup": "animal-amphibian",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐊",
@@ -7597,7 +7597,7 @@
 			" 악어"
 		],
 		"subgroup": "animal-reptile",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐢",
@@ -7609,7 +7609,7 @@
 			" 동물"
 		],
 		"subgroup": "animal-reptile",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦎",
@@ -7621,7 +7621,7 @@
 			" 파충류"
 		],
 		"subgroup": "animal-reptile",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐍",
@@ -7635,7 +7635,7 @@
 			" 뱀"
 		],
 		"subgroup": "animal-reptile",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐲",
@@ -7650,7 +7650,7 @@
 			" 용띠"
 		],
 		"subgroup": "animal-reptile",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐉",
@@ -7662,7 +7662,7 @@
 			" 용"
 		],
 		"subgroup": "animal-reptile",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦕",
@@ -7675,7 +7675,7 @@
 			" 초식 공룡"
 		],
 		"subgroup": "animal-reptile",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦖",
@@ -7686,7 +7686,7 @@
 			" 티렉스"
 		],
 		"subgroup": "animal-reptile",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐳",
@@ -7698,7 +7698,7 @@
 			" 물 뿜는 고래"
 		],
 		"subgroup": "animal-marine",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐋",
@@ -7708,7 +7708,7 @@
 			" 동물"
 		],
 		"subgroup": "animal-marine",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐬",
@@ -7719,7 +7719,7 @@
 			" 동물"
 		],
 		"subgroup": "animal-marine",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐟",
@@ -7732,7 +7732,7 @@
 			" 생선"
 		],
 		"subgroup": "animal-marine",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐠",
@@ -7744,7 +7744,7 @@
 			" 열대어"
 		],
 		"subgroup": "animal-marine",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐡",
@@ -7756,7 +7756,7 @@
 			" 복어"
 		],
 		"subgroup": "animal-marine",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦈",
@@ -7768,7 +7768,7 @@
 			" 어류"
 		],
 		"subgroup": "animal-marine",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐙",
@@ -7780,7 +7780,7 @@
 			" 페드로"
 		],
 		"subgroup": "animal-marine",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐚",
@@ -7792,7 +7792,7 @@
 			" 동물"
 		],
 		"subgroup": "animal-marine",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐌",
@@ -7804,7 +7804,7 @@
 			" 벌레"
 		],
 		"subgroup": " animal-bug",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦋",
@@ -7817,7 +7817,7 @@
 			" 날개"
 		],
 		"subgroup": " animal-bug",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐛",
@@ -7829,7 +7829,7 @@
 			" 송충이"
 		],
 		"subgroup": " animal-bug",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐜",
@@ -7841,7 +7841,7 @@
 			" 벌레"
 		],
 		"subgroup": " animal-bug",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐝",
@@ -7854,7 +7854,7 @@
 			" 벌"
 		],
 		"subgroup": " animal-bug",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🐞",
@@ -7869,7 +7869,7 @@
 			" 벌레"
 		],
 		"subgroup": " animal-bug",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦗",
@@ -7879,7 +7879,7 @@
 			"귀뚜라미"
 		],
 		"subgroup": " animal-bug",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🕷",
@@ -7892,7 +7892,7 @@
 			" 스파이더"
 		],
 		"subgroup": " animal-bug",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🕸",
@@ -7903,7 +7903,7 @@
 			" 거미줄"
 		],
 		"subgroup": " animal-bug",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦂",
@@ -7916,7 +7916,7 @@
 			" 전갈"
 		],
 		"subgroup": " animal-bug",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦟",
@@ -7935,7 +7935,7 @@
 			" 열"
 		],
 		"subgroup": " animal-bug",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🦠",
@@ -7950,7 +7950,7 @@
 			" 아메바"
 		],
 		"subgroup": " animal-bug",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "💐",
@@ -7962,7 +7962,7 @@
 			" 부케"
 		],
 		"subgroup": "plant-flower",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🌸",
@@ -7975,7 +7975,7 @@
 			" 벚꽃"
 		],
 		"subgroup": "plant-flower",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "💮",
@@ -7988,7 +7988,7 @@
 			" 흰 꽃"
 		],
 		"subgroup": "plant-flower",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🏵",
@@ -7999,7 +7999,7 @@
 			" 장미"
 		],
 		"subgroup": "plant-flower",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🌹",
@@ -8010,7 +8010,7 @@
 			" 장미꽃"
 		],
 		"subgroup": "plant-flower",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🥀",
@@ -8023,7 +8023,7 @@
 			" 시듦"
 		],
 		"subgroup": "plant-flower",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🌺",
@@ -8034,7 +8034,7 @@
 			" 무궁화"
 		],
 		"subgroup": "plant-flower",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🌻",
@@ -8046,7 +8046,7 @@
 			" 해바라기"
 		],
 		"subgroup": "plant-flower",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🌼",
@@ -8057,7 +8057,7 @@
 			" 꽃송이"
 		],
 		"subgroup": "plant-flower",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🌷",
@@ -8068,7 +8068,7 @@
 			" 튤립"
 		],
 		"subgroup": "plant-flower",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🌱",
@@ -8079,7 +8079,7 @@
 			" 싹이 돋다"
 		],
 		"subgroup": "plant-other",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🌲",
@@ -8091,7 +8091,7 @@
 			" 소나무"
 		],
 		"subgroup": "plant-other",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🌳",
@@ -8103,7 +8103,7 @@
 			" 낙엽수"
 		],
 		"subgroup": "plant-other",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🌴",
@@ -8115,7 +8115,7 @@
 			" 열대 나무"
 		],
 		"subgroup": "plant-other",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🌵",
@@ -8127,7 +8127,7 @@
 			" 식물"
 		],
 		"subgroup": "plant-other",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🌾",
@@ -8141,7 +8141,7 @@
 			" 이삭"
 		],
 		"subgroup": "plant-other",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🌿",
@@ -8153,7 +8153,7 @@
 			" 풀"
 		],
 		"subgroup": "plant-other",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "☘",
@@ -8165,7 +8165,7 @@
 			" 풀"
 		],
 		"subgroup": "plant-other",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🍀",
@@ -8180,7 +8180,7 @@
 			" 행운"
 		],
 		"subgroup": "plant-other",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🍁",
@@ -8194,7 +8194,7 @@
 			" 잎사귀"
 		],
 		"subgroup": "plant-other",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🍂",
@@ -8209,7 +8209,7 @@
 			" 잎사귀"
 		],
 		"subgroup": "plant-other",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🍃",
@@ -8224,7 +8224,7 @@
 			" 바람에 흔들리는 나뭇잎"
 		],
 		"subgroup": "plant-other",
-		"group": " Component"
+		"group": " Animals & Nature"
 	},
 	{
 		"icon": "🍇",
@@ -9869,7 +9869,7 @@
 			" 지구본"
 		],
 		"subgroup": " place-map",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌎",
@@ -9888,7 +9888,7 @@
 			" 캐나다"
 		],
 		"subgroup": " place-map",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌏",
@@ -9905,7 +9905,7 @@
 			" 호주"
 		],
 		"subgroup": " place-map",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌐",
@@ -9921,7 +9921,7 @@
 			" 지구"
 		],
 		"subgroup": " place-map",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🗺",
@@ -9932,7 +9932,7 @@
 			" 지도"
 		],
 		"subgroup": " place-map",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🗾",
@@ -9944,7 +9944,7 @@
 			" 지도"
 		],
 		"subgroup": " place-map",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🧭",
@@ -9958,7 +9958,7 @@
 			" 자석"
 		],
 		"subgroup": " place-map",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏔",
@@ -9973,7 +9973,7 @@
 			" 설산"
 		],
 		"subgroup": "place-geographic",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "⛰",
@@ -9983,7 +9983,7 @@
 			" 산 정상"
 		],
 		"subgroup": "place-geographic",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌋",
@@ -9995,7 +9995,7 @@
 			" 화산 폭발"
 		],
 		"subgroup": "place-geographic",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🗻",
@@ -10007,7 +10007,7 @@
 			" 후지산"
 		],
 		"subgroup": "place-geographic",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏕",
@@ -10017,7 +10017,7 @@
 			" 텐트"
 		],
 		"subgroup": "place-geographic",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏖",
@@ -10030,7 +10030,7 @@
 			" 해변"
 		],
 		"subgroup": "place-geographic",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏜",
@@ -10041,7 +10041,7 @@
 			" 태양"
 		],
 		"subgroup": "place-geographic",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏝",
@@ -10052,7 +10052,7 @@
 			" 섬"
 		],
 		"subgroup": "place-geographic",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏞",
@@ -10064,7 +10064,7 @@
 			" 국립공원"
 		],
 		"subgroup": "place-geographic",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏟",
@@ -10074,7 +10074,7 @@
 			" 스타디움"
 		],
 		"subgroup": "place-building",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏛",
@@ -10086,7 +10086,7 @@
 			" 고전 양식의 건축물"
 		],
 		"subgroup": "place-building",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏗",
@@ -10097,7 +10097,7 @@
 			" 공사"
 		],
 		"subgroup": "place-building",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🧱",
@@ -10112,7 +10112,7 @@
 			" 빨간 벽돌"
 		],
 		"subgroup": "place-building",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏘",
@@ -10122,7 +10122,7 @@
 			" 주택"
 		],
 		"subgroup": "place-building",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏚",
@@ -10135,7 +10135,7 @@
 			" 주택"
 		],
 		"subgroup": "place-building",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏠",
@@ -10147,7 +10147,7 @@
 			" 집"
 		],
 		"subgroup": "place-building",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏡",
@@ -10160,7 +10160,7 @@
 			" 정원이 있는 집"
 		],
 		"subgroup": "place-building",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏢",
@@ -10173,7 +10173,7 @@
 			" 오피스"
 		],
 		"subgroup": "place-building",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏣",
@@ -10186,7 +10186,7 @@
 			" 일본"
 		],
 		"subgroup": "place-building",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏤",
@@ -10198,7 +10198,7 @@
 			" 유럽 우체국"
 		],
 		"subgroup": "place-building",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏥",
@@ -10213,7 +10213,7 @@
 			" 의사"
 		],
 		"subgroup": "place-building",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏦",
@@ -10226,7 +10226,7 @@
 			" 은행"
 		],
 		"subgroup": "place-building",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏨",
@@ -10239,7 +10239,7 @@
 			" 호텔"
 		],
 		"subgroup": "place-building",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏩",
@@ -10250,7 +10250,7 @@
 			" 모텔"
 		],
 		"subgroup": "place-building",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏪",
@@ -10261,7 +10261,7 @@
 			" 편의점"
 		],
 		"subgroup": "place-building",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏫",
@@ -10275,7 +10275,7 @@
 			" 학교"
 		],
 		"subgroup": "place-building",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏬",
@@ -10286,7 +10286,7 @@
 			" 백화점"
 		],
 		"subgroup": "place-building",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏭",
@@ -10298,7 +10298,7 @@
 			" 빌딩"
 		],
 		"subgroup": "place-building",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏯",
@@ -10312,7 +10312,7 @@
 			" 히메지성"
 		],
 		"subgroup": "place-building",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏰",
@@ -10325,7 +10325,7 @@
 			" 유럽 성"
 		],
 		"subgroup": "place-building",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "💒",
@@ -10339,7 +10339,7 @@
 			" 성당 결혼식"
 		],
 		"subgroup": "place-building",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🗼",
@@ -10351,7 +10351,7 @@
 			" 탑"
 		],
 		"subgroup": "place-building",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🗽",
@@ -10364,7 +10364,7 @@
 			" 자유의 여신상"
 		],
 		"subgroup": "place-building",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "⛪",
@@ -10379,7 +10379,7 @@
 			" 크리스찬"
 		],
 		"subgroup": "place-religious",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕌",
@@ -10394,7 +10394,7 @@
 			" 종교"
 		],
 		"subgroup": "place-religious",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🛕",
@@ -10405,7 +10405,7 @@
 			" 힌두교"
 		],
 		"subgroup": "place-religious",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕍",
@@ -10421,7 +10421,7 @@
 			" 종교"
 		],
 		"subgroup": "place-religious",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "⛩",
@@ -10435,7 +10435,7 @@
 			" 종교"
 		],
 		"subgroup": "place-religious",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕋",
@@ -10449,7 +10449,7 @@
 			" 카바"
 		],
 		"subgroup": "place-religious",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "⛲",
@@ -10459,7 +10459,7 @@
 			" 분수대"
 		],
 		"subgroup": "place-other",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "⛺",
@@ -10471,7 +10471,7 @@
 			" 텐트"
 		],
 		"subgroup": "place-other",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌁",
@@ -10483,7 +10483,7 @@
 			" 자욱한 안개"
 		],
 		"subgroup": "place-other",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌃",
@@ -10495,7 +10495,7 @@
 			" 야경"
 		],
 		"subgroup": "place-other",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏙",
@@ -10507,7 +10507,7 @@
 			" 도시 전경"
 		],
 		"subgroup": "place-other",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌄",
@@ -10525,7 +10525,7 @@
 			" 해가 뜸"
 		],
 		"subgroup": "place-other",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌅",
@@ -10539,7 +10539,7 @@
 			" 해가 뜸"
 		],
 		"subgroup": "place-other",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌆",
@@ -10558,7 +10558,7 @@
 			" 해질녘"
 		],
 		"subgroup": "place-other",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌇",
@@ -10572,7 +10572,7 @@
 			" 해질녘"
 		],
 		"subgroup": "place-other",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌉",
@@ -10588,7 +10588,7 @@
 			" 별과 다리"
 		],
 		"subgroup": "place-other",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "♨",
@@ -10602,7 +10602,7 @@
 			" 온천"
 		],
 		"subgroup": "place-other",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🎠",
@@ -10615,7 +10615,7 @@
 			" 회전 목마"
 		],
 		"subgroup": "place-other",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🎡",
@@ -10628,7 +10628,7 @@
 			" 유원지"
 		],
 		"subgroup": "place-other",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🎢",
@@ -10641,7 +10641,7 @@
 			" 유원지"
 		],
 		"subgroup": "place-other",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "💈",
@@ -10654,7 +10654,7 @@
 			" 이발소 표시"
 		],
 		"subgroup": "place-other",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🎪",
@@ -10665,7 +10665,7 @@
 			" 텐트"
 		],
 		"subgroup": "place-other",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚂",
@@ -10682,7 +10682,7 @@
 			" 트레인"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚃",
@@ -10700,7 +10700,7 @@
 			" 트레인"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚄",
@@ -10715,7 +10715,7 @@
 			" 케이티엑스"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚅",
@@ -10730,7 +10730,7 @@
 			" 케이티엑스"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚆",
@@ -10741,7 +10741,7 @@
 			" 철도"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚇",
@@ -10753,7 +10753,7 @@
 			" 지하철"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚈",
@@ -10765,7 +10765,7 @@
 			" 기차"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚉",
@@ -10779,7 +10779,7 @@
 			" 지하철역"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚊",
@@ -10790,7 +10790,7 @@
 			" 트램"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚝",
@@ -10802,7 +10802,7 @@
 			" 모노레일"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚞",
@@ -10815,7 +10815,7 @@
 			" 터널"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚋",
@@ -10827,7 +10827,7 @@
 			" 트램 차량"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚌",
@@ -10839,7 +10839,7 @@
 			" 차"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚍",
@@ -10850,7 +10850,7 @@
 			" 오고 있는 버스"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚎",
@@ -10863,7 +10863,7 @@
 			" 트롤리"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚐",
@@ -10874,7 +10874,7 @@
 			" 소형 버스"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚑",
@@ -10885,7 +10885,7 @@
 			" 앰뷸런스"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚒",
@@ -10899,7 +10899,7 @@
 			" 화재"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚓",
@@ -10911,7 +10911,7 @@
 			" 경찰차"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚔",
@@ -10924,7 +10924,7 @@
 			" 오고 있는 경찰차"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚕",
@@ -10935,7 +10935,7 @@
 			" 택시"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚖",
@@ -10946,7 +10946,7 @@
 			" 택시"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚗",
@@ -10958,7 +10958,7 @@
 			" 차량"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚘",
@@ -10970,7 +10970,7 @@
 			" 오고 있는 자동차"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚙",
@@ -10983,7 +10983,7 @@
 			" 지프차"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚚",
@@ -10995,7 +10995,7 @@
 			" 운송 트럭"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚛",
@@ -11008,7 +11008,7 @@
 			" 트레일러 트럭"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚜",
@@ -11020,7 +11020,7 @@
 			" 트랙터"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏎",
@@ -11031,7 +11031,7 @@
 			" 레이싱카"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🏍",
@@ -11043,7 +11043,7 @@
 			" 오토바이"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🛵",
@@ -11055,7 +11055,7 @@
 			" 전동"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🦽",
@@ -11066,7 +11066,7 @@
 			" 접근성"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🦼",
@@ -11077,7 +11077,7 @@
 			" 접근성"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🛺",
@@ -11088,7 +11088,7 @@
 			" 툭툭"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚲",
@@ -11100,7 +11100,7 @@
 			" 자전거"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🛴",
@@ -11111,7 +11111,7 @@
 			" 킥보드"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🛹",
@@ -11122,7 +11122,7 @@
 			" 스케이트보드"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚏",
@@ -11134,7 +11134,7 @@
 			" 정류장"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🛣",
@@ -11146,7 +11146,7 @@
 			" 도로"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🛤",
@@ -11158,7 +11158,7 @@
 			" 철도"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🛢",
@@ -11170,7 +11170,7 @@
 			" 드럼"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "⛽",
@@ -11188,7 +11188,7 @@
 			" 휘발유"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚨",
@@ -11203,7 +11203,7 @@
 			" 사이렌"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚥",
@@ -11217,7 +11217,7 @@
 			" 신호등"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚦",
@@ -11231,7 +11231,7 @@
 			" 신호등"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🛑",
@@ -11245,7 +11245,7 @@
 			" 팔각형"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚧",
@@ -11257,7 +11257,7 @@
 			" 공사 중 표시"
 		],
 		"subgroup": "transport-ground",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "⚓",
@@ -11270,7 +11270,7 @@
 			" 항해"
 		],
 		"subgroup": "transport-water",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "⛵",
@@ -11285,7 +11285,7 @@
 			" 요트"
 		],
 		"subgroup": "transport-water",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🛶",
@@ -11296,7 +11296,7 @@
 			" 카누"
 		],
 		"subgroup": "transport-water",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚤",
@@ -11308,7 +11308,7 @@
 			" 쾌속정"
 		],
 		"subgroup": "transport-water",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🛳",
@@ -11320,7 +11320,7 @@
 			" 여객선"
 		],
 		"subgroup": "transport-water",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "⛴",
@@ -11333,7 +11333,7 @@
 			" 페리"
 		],
 		"subgroup": "transport-water",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🛥",
@@ -11345,7 +11345,7 @@
 			" 보트"
 		],
 		"subgroup": "transport-water",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚢",
@@ -11358,7 +11358,7 @@
 			" 선박"
 		],
 		"subgroup": "transport-water",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "✈",
@@ -11370,7 +11370,7 @@
 			" 항공"
 		],
 		"subgroup": "transport-air",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🛩",
@@ -11383,7 +11383,7 @@
 			" 소형비행기"
 		],
 		"subgroup": "transport-air",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🛫",
@@ -11397,7 +11397,7 @@
 			" 출발"
 		],
 		"subgroup": "transport-air",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🛬",
@@ -11412,7 +11412,7 @@
 			" 비행기 착륙"
 		],
 		"subgroup": "transport-air",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🪂",
@@ -11427,7 +11427,7 @@
 			" 행글라이더"
 		],
 		"subgroup": "transport-air",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "💺",
@@ -11438,7 +11438,7 @@
 			" 좌석"
 		],
 		"subgroup": "transport-air",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚁",
@@ -11449,7 +11449,7 @@
 			" 헬리콥터"
 		],
 		"subgroup": "transport-air",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚟",
@@ -11460,7 +11460,7 @@
 			" 케이블카"
 		],
 		"subgroup": "transport-air",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚠",
@@ -11476,7 +11476,7 @@
 			" 케이블카"
 		],
 		"subgroup": "transport-air",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚡",
@@ -11492,7 +11492,7 @@
 			" 케이블카"
 		],
 		"subgroup": "transport-air",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🛰",
@@ -11503,7 +11503,7 @@
 			" 인공위성"
 		],
 		"subgroup": "transport-air",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🚀",
@@ -11516,7 +11516,7 @@
 			" 우주"
 		],
 		"subgroup": "transport-air",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🛸",
@@ -11527,7 +11527,7 @@
 			" 비행접시"
 		],
 		"subgroup": "transport-air",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🛎",
@@ -11541,7 +11541,7 @@
 			" 호텔"
 		],
 		"subgroup": "hotel",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🧳",
@@ -11554,7 +11554,7 @@
 			" 짐"
 		],
 		"subgroup": "hotel",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "⌛",
@@ -11567,7 +11567,7 @@
 			" 타이머"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "⏳",
@@ -11580,7 +11580,7 @@
 			" 타이머"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "⌚",
@@ -11591,7 +11591,7 @@
 			" 시계"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "⏰",
@@ -11602,7 +11602,7 @@
 			" 알람"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "⏱",
@@ -11613,7 +11613,7 @@
 			" 시계"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "⏲",
@@ -11624,7 +11624,7 @@
 			" 타이머"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕰",
@@ -11636,7 +11636,7 @@
 			" 시계"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕛",
@@ -11654,7 +11654,7 @@
 			" 열두 시"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕧",
@@ -11671,7 +11671,7 @@
 			" 열두 시 반"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕐",
@@ -11689,7 +11689,7 @@
 			" 한 시"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕜",
@@ -11706,7 +11706,7 @@
 			" 한 시 반"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕑",
@@ -11724,7 +11724,7 @@
 			" 시계"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕝",
@@ -11741,7 +11741,7 @@
 			" 시계"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕒",
@@ -11759,7 +11759,7 @@
 			" 시계"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕞",
@@ -11776,7 +11776,7 @@
 			" 시계"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕓",
@@ -11794,7 +11794,7 @@
 			" 시계"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕟",
@@ -11811,7 +11811,7 @@
 			" 시계"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕔",
@@ -11829,7 +11829,7 @@
 			" 시계"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕠",
@@ -11846,7 +11846,7 @@
 			" 시계"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕕",
@@ -11864,7 +11864,7 @@
 			" 여섯 시"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕡",
@@ -11881,7 +11881,7 @@
 			" 여섯 시 반"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕖",
@@ -11899,7 +11899,7 @@
 			" 일곱 시"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕢",
@@ -11916,7 +11916,7 @@
 			" 일곱 시 반"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕗",
@@ -11934,7 +11934,7 @@
 			" 여덟 시"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕣",
@@ -11951,7 +11951,7 @@
 			" 여덟 시 반"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕘",
@@ -11969,7 +11969,7 @@
 			" 아홉 시"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕤",
@@ -11986,7 +11986,7 @@
 			" 아홉 시 반"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕙",
@@ -12004,7 +12004,7 @@
 			" 열 시"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕥",
@@ -12021,7 +12021,7 @@
 			" 열 시 반"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕚",
@@ -12039,7 +12039,7 @@
 			" 열한 시"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🕦",
@@ -12056,7 +12056,7 @@
 			" 열한 시 반"
 		],
 		"subgroup": "time",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌑",
@@ -12072,7 +12072,7 @@
 			" 초승달"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌒",
@@ -12086,7 +12086,7 @@
 			" 초승달 상현"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌓",
@@ -12098,7 +12098,7 @@
 			" 오른쪽 반달"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌔",
@@ -12110,7 +12110,7 @@
 			" 상현달"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌕",
@@ -12121,7 +12121,7 @@
 			" 보름달"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌖",
@@ -12133,7 +12133,7 @@
 			" 하현달"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌗",
@@ -12145,7 +12145,7 @@
 			" 왼쪽 반달"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌘",
@@ -12158,7 +12158,7 @@
 			" 달"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌙",
@@ -12169,7 +12169,7 @@
 			" 초승달"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌚",
@@ -12184,7 +12184,7 @@
 			" 얼굴이 있는 삭"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌛",
@@ -12198,7 +12198,7 @@
 			" 얼굴이 있는 초승달"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌜",
@@ -12213,7 +12213,7 @@
 			" 얼굴이 있는 그믐달"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌡",
@@ -12224,7 +12224,7 @@
 			" 온도계"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "☀",
@@ -12239,7 +12239,7 @@
 			" 해"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌝",
@@ -12253,7 +12253,7 @@
 			" 얼굴이 있는 보름달"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌞",
@@ -12267,7 +12267,7 @@
 			" 해님"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🪐",
@@ -12279,7 +12279,7 @@
 			" 토성"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "⭐",
@@ -12288,7 +12288,7 @@
 			"별"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌟",
@@ -12305,7 +12305,7 @@
 			" 별"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌠",
@@ -12320,7 +12320,7 @@
 			" 유성"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌌",
@@ -12333,7 +12333,7 @@
 			" 행성"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "☁",
@@ -12344,7 +12344,7 @@
 			" 흐림"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "⛅",
@@ -12358,7 +12358,7 @@
 			" 해"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "⛈",
@@ -12373,7 +12373,7 @@
 			" 비"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌤",
@@ -12387,7 +12387,7 @@
 			" 흐림"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌥",
@@ -12401,7 +12401,7 @@
 			" 흐림"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌦",
@@ -12416,7 +12416,7 @@
 			" 해"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌧",
@@ -12429,7 +12429,7 @@
 			" 비구름"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌨",
@@ -12444,7 +12444,7 @@
 			" 눈구름"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌩",
@@ -12457,7 +12457,7 @@
 			" 번개구름"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌪",
@@ -12470,7 +12470,7 @@
 			" 토네이도"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌫",
@@ -12482,7 +12482,7 @@
 			" 안개"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌬",
@@ -12496,7 +12496,7 @@
 			" 얼굴이 있는 바람"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌀",
@@ -12512,7 +12512,7 @@
 			" 태풍의 눈"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌈",
@@ -12523,7 +12523,7 @@
 			" 무지개"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌂",
@@ -12536,7 +12536,7 @@
 			" 접힌 우산"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "☂",
@@ -12548,7 +12548,7 @@
 			" 우산"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "☔",
@@ -12565,7 +12565,7 @@
 			" 우산"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "⛱",
@@ -12580,7 +12580,7 @@
 			" 해변가"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "⚡",
@@ -12597,7 +12597,7 @@
 			" 번개"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "❄",
@@ -12610,7 +12610,7 @@
 			" 추위"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "☃",
@@ -12624,7 +12624,7 @@
 			" 추위"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "⛄",
@@ -12638,7 +12638,7 @@
 			" 스노우맨"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "☄",
@@ -12649,7 +12649,7 @@
 			" 혜성"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🔥",
@@ -12662,7 +12662,7 @@
 			" 화재"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "💧",
@@ -12676,7 +12676,7 @@
 			" 물방울"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🌊",
@@ -12689,7 +12689,7 @@
 			" 풍랑"
 		],
 		"subgroup": "sky & weather",
-		"group": " Food & Drink"
+		"group": " Travel & Places"
 	},
 	{
 		"icon": "🎃",
@@ -13813,7 +13813,7 @@
 			" 안경"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🕶",
@@ -13827,7 +13827,7 @@
 			" 안경"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🥽",
@@ -13844,7 +13844,7 @@
 			" 용접"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🥼",
@@ -13859,7 +13859,7 @@
 			" 의사"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🦺",
@@ -13873,7 +13873,7 @@
 			" 조끼"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "👔",
@@ -13886,7 +13886,7 @@
 			" 타이"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "👕",
@@ -13899,7 +13899,7 @@
 			" 티셔츠"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "👖",
@@ -13913,7 +13913,7 @@
 			" 청바지"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🧣",
@@ -13923,7 +13923,7 @@
 			"스카프"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🧤",
@@ -13933,7 +13933,7 @@
 			"장갑"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🧥",
@@ -13944,7 +13944,7 @@
 			" 코트"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🧦",
@@ -13954,7 +13954,7 @@
 			"양말"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "👗",
@@ -13965,7 +13965,7 @@
 			" 원피스"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "👘",
@@ -13976,7 +13976,7 @@
 			" 일본 기모노"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🥻",
@@ -13989,7 +13989,7 @@
 			" 의복"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🩱",
@@ -14000,7 +14000,7 @@
 			" 원피스 수영복"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🩲",
@@ -14015,7 +14015,7 @@
 			" 언더웨어"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🩳",
@@ -14028,7 +14028,7 @@
 			" 수영복"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "👙",
@@ -14040,7 +14040,7 @@
 			" 수영복"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "👚",
@@ -14052,7 +14052,7 @@
 			" 여성복"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "👛",
@@ -14064,7 +14064,7 @@
 			" 지갑"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "👜",
@@ -14078,7 +14078,7 @@
 			" 핸드백"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "👝",
@@ -14091,7 +14091,7 @@
 			" 파우치"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🛍",
@@ -14104,7 +14104,7 @@
 			" 쇼핑백"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🎒",
@@ -14119,7 +14119,7 @@
 			" 학생 가방"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "👞",
@@ -14134,7 +14134,7 @@
 			" 신발"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "👟",
@@ -14149,7 +14149,7 @@
 			" 운동화"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🥾",
@@ -14165,7 +14165,7 @@
 			" 하이킹"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🥿",
@@ -14179,7 +14179,7 @@
 			" 플랫 슈즈"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "👠",
@@ -14196,7 +14196,7 @@
 			" 하이힐"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "👡",
@@ -14212,7 +14212,7 @@
 			" 여성용 신발"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🩰",
@@ -14225,7 +14225,7 @@
 			" 춤"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "👢",
@@ -14241,7 +14241,7 @@
 			" 여성용 신발"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "👑",
@@ -14255,7 +14255,7 @@
 			" 왕족"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "👒",
@@ -14269,7 +14269,7 @@
 			" 챙 넓은 모자"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🎩",
@@ -14282,7 +14282,7 @@
 			" 마술사 모자"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🎓",
@@ -14298,7 +14298,7 @@
 			" 졸업식"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🧢",
@@ -14308,7 +14308,7 @@
 			"야구모자"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "⛑",
@@ -14326,7 +14326,7 @@
 			" 흰 십자가가 있는 헬멧"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📿",
@@ -14341,7 +14341,7 @@
 			" 예배"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "💄",
@@ -14354,7 +14354,7 @@
 			" 화장품"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "💍",
@@ -14366,7 +14366,7 @@
 			" 반지"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "💎",
@@ -14380,7 +14380,7 @@
 			" 원석"
 		],
 		"subgroup": " clothing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🔇",
@@ -14395,7 +14395,7 @@
 			" 소리 없음"
 		],
 		"subgroup": "sound",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🔈",
@@ -14407,7 +14407,7 @@
 			" 스피커"
 		],
 		"subgroup": "sound",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🔉",
@@ -14420,7 +14420,7 @@
 			" 스피커 소리 작게"
 		],
 		"subgroup": "sound",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🔊",
@@ -14433,7 +14433,7 @@
 			" 스피커 소리 크게"
 		],
 		"subgroup": "sound",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📢",
@@ -14445,7 +14445,7 @@
 			" 확성기"
 		],
 		"subgroup": "sound",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📣",
@@ -14456,7 +14456,7 @@
 			" 응원"
 		],
 		"subgroup": "sound",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📯",
@@ -14468,7 +14468,7 @@
 			" 호른"
 		],
 		"subgroup": "sound",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🔔",
@@ -14478,7 +14478,7 @@
 			" 종"
 		],
 		"subgroup": "sound",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🔕",
@@ -14494,7 +14494,7 @@
 			" 음소거"
 		],
 		"subgroup": "sound",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🎼",
@@ -14508,7 +14508,7 @@
 			" 음악"
 		],
 		"subgroup": "music",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🎵",
@@ -14520,7 +14520,7 @@
 			" 음표"
 		],
 		"subgroup": "music",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🎶",
@@ -14533,7 +14533,7 @@
 			" 음악"
 		],
 		"subgroup": "music",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🎙",
@@ -14547,7 +14547,7 @@
 			" 스튜디오 마이크"
 		],
 		"subgroup": "music",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🎚",
@@ -14559,7 +14559,7 @@
 			" 음악"
 		],
 		"subgroup": "music",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🎛",
@@ -14571,7 +14571,7 @@
 			" 컨트롤 레버"
 		],
 		"subgroup": "music",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🎤",
@@ -14585,7 +14585,7 @@
 			" 행사"
 		],
 		"subgroup": "music",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🎧",
@@ -14597,7 +14597,7 @@
 			" 헤드폰"
 		],
 		"subgroup": "music",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📻",
@@ -14608,7 +14608,7 @@
 			" 라디오"
 		],
 		"subgroup": "music",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🎷",
@@ -14623,7 +14623,7 @@
 			" 음악"
 		],
 		"subgroup": "musical-instrument",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🎸",
@@ -14638,7 +14638,7 @@
 			" 통기타"
 		],
 		"subgroup": "musical-instrument",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🎹",
@@ -14655,7 +14655,7 @@
 			" 피아노"
 		],
 		"subgroup": "musical-instrument",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🎺",
@@ -14669,7 +14669,7 @@
 			" 트럼펫"
 		],
 		"subgroup": "musical-instrument",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🎻",
@@ -14683,7 +14683,7 @@
 			" 음악"
 		],
 		"subgroup": "musical-instrument",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🪕",
@@ -14696,7 +14696,7 @@
 			" 현악기"
 		],
 		"subgroup": "musical-instrument",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🥁",
@@ -14710,7 +14710,7 @@
 			" 음악"
 		],
 		"subgroup": "musical-instrument",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📱",
@@ -14724,7 +14724,7 @@
 			" 휴대폰"
 		],
 		"subgroup": " phone",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📲",
@@ -14742,7 +14742,7 @@
 			" 휴대폰"
 		],
 		"subgroup": " phone",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "☎",
@@ -14753,7 +14753,7 @@
 			" 전화기"
 		],
 		"subgroup": " phone",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📞",
@@ -14765,7 +14765,7 @@
 			" 전화"
 		],
 		"subgroup": " phone",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📟",
@@ -14775,7 +14775,7 @@
 			" 호출기"
 		],
 		"subgroup": " phone",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📠",
@@ -14787,7 +14787,7 @@
 			" 팩시밀리"
 		],
 		"subgroup": " phone",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🔋",
@@ -14798,7 +14798,7 @@
 			" 배터리 충전"
 		],
 		"subgroup": "computer",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🔌",
@@ -14810,7 +14810,7 @@
 			" 플러그"
 		],
 		"subgroup": "computer",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "💻",
@@ -14824,7 +14824,7 @@
 			" 랩탑"
 		],
 		"subgroup": "computer",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🖥",
@@ -14835,7 +14835,7 @@
 			" 컴퓨터"
 		],
 		"subgroup": "computer",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🖨",
@@ -14846,7 +14846,7 @@
 			" 프린터"
 		],
 		"subgroup": "computer",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "⌨",
@@ -14856,7 +14856,7 @@
 			"키보드"
 		],
 		"subgroup": "computer",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🖱",
@@ -14867,7 +14867,7 @@
 			" 컴퓨터"
 		],
 		"subgroup": "computer",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🖲",
@@ -14879,7 +14879,7 @@
 			" 트랙볼"
 		],
 		"subgroup": "computer",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "💽",
@@ -14894,7 +14894,7 @@
 			" 엠디"
 		],
 		"subgroup": "computer",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "💾",
@@ -14906,7 +14906,7 @@
 			" 플로피 디스크"
 		],
 		"subgroup": "computer",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "💿",
@@ -14923,7 +14923,7 @@
 			" 씨디"
 		],
 		"subgroup": "computer",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📀",
@@ -14937,7 +14937,7 @@
 			" 디비디"
 		],
 		"subgroup": "computer",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🧮",
@@ -14948,7 +14948,7 @@
 			" 주판"
 		],
 		"subgroup": "computer",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🎥",
@@ -14961,7 +14961,7 @@
 			" 카메라 촬영"
 		],
 		"subgroup": "light & video",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🎞",
@@ -14975,7 +14975,7 @@
 			" 필름"
 		],
 		"subgroup": "light & video",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📽",
@@ -14990,7 +14990,7 @@
 			" 프로젝터"
 		],
 		"subgroup": "light & video",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🎬",
@@ -15004,7 +15004,7 @@
 			" 클래퍼보드"
 		],
 		"subgroup": "light & video",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📺",
@@ -15017,7 +15017,7 @@
 			" 티비"
 		],
 		"subgroup": "light & video",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📷",
@@ -15029,7 +15029,7 @@
 			" 카메라"
 		],
 		"subgroup": "light & video",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📸",
@@ -15043,7 +15043,7 @@
 			" 플래시를 터트리고 있는 카메라"
 		],
 		"subgroup": "light & video",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📹",
@@ -15055,7 +15055,7 @@
 			" 캠코더"
 		],
 		"subgroup": "light & video",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📼",
@@ -15069,7 +15069,7 @@
 			" 테이프"
 		],
 		"subgroup": "light & video",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🔍",
@@ -15084,7 +15084,7 @@
 			" 왼쪽으로 향한 돋보기"
 		],
 		"subgroup": "light & video",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🔎",
@@ -15099,7 +15099,7 @@
 			" 오른쪽으로 향한 돋보기"
 		],
 		"subgroup": "light & video",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🕯",
@@ -15110,7 +15110,7 @@
 			" 캔들"
 		],
 		"subgroup": "light & video",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "💡",
@@ -15126,7 +15126,7 @@
 			" 전구"
 		],
 		"subgroup": "light & video",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🔦",
@@ -15140,7 +15140,7 @@
 			" 전등"
 		],
 		"subgroup": "light & video",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🏮",
@@ -15157,7 +15157,7 @@
 			" 홍등"
 		],
 		"subgroup": "light & video",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🪔",
@@ -15170,7 +15170,7 @@
 			" 램프"
 		],
 		"subgroup": "light & video",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📔",
@@ -15185,7 +15185,7 @@
 			" 표지가 있는 노트"
 		],
 		"subgroup": "book-paper",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📕",
@@ -15197,7 +15197,7 @@
 			" 펼치지 않은 책"
 		],
 		"subgroup": "book-paper",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📖",
@@ -15208,7 +15208,7 @@
 			" 펼쳐진 책"
 		],
 		"subgroup": "book-paper",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📗",
@@ -15220,7 +15220,7 @@
 			" 초록색 책"
 		],
 		"subgroup": "book-paper",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📘",
@@ -15232,7 +15232,7 @@
 			" 파란색 책"
 		],
 		"subgroup": "book-paper",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📙",
@@ -15244,7 +15244,7 @@
 			" 책"
 		],
 		"subgroup": "book-paper",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📚",
@@ -15255,7 +15255,7 @@
 			" 책 여러 권"
 		],
 		"subgroup": "book-paper",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📓",
@@ -15265,7 +15265,7 @@
 			" 노트"
 		],
 		"subgroup": "book-paper",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📒",
@@ -15277,7 +15277,7 @@
 			" 원장"
 		],
 		"subgroup": "book-paper",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📃",
@@ -15290,7 +15290,7 @@
 			" 페이지"
 		],
 		"subgroup": "book-paper",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📜",
@@ -15301,7 +15301,7 @@
 			" 스크롤"
 		],
 		"subgroup": "book-paper",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📄",
@@ -15313,7 +15313,7 @@
 			" 페이지"
 		],
 		"subgroup": "book-paper",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📰",
@@ -15326,7 +15326,7 @@
 			" 정보"
 		],
 		"subgroup": "book-paper",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🗞",
@@ -15341,7 +15341,7 @@
 			" 신문 뭉치"
 		],
 		"subgroup": "book-paper",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📑",
@@ -15355,7 +15355,7 @@
 			" 포스트잇"
 		],
 		"subgroup": "book-paper",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🔖",
@@ -15368,7 +15368,7 @@
 			" 표시"
 		],
 		"subgroup": "book-paper",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🏷",
@@ -15378,7 +15378,7 @@
 			" 택"
 		],
 		"subgroup": "book-paper",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "💰",
@@ -15392,7 +15392,7 @@
 			" 주머니"
 		],
 		"subgroup": "money",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "💴",
@@ -15409,7 +15409,7 @@
 			" 일본 화폐"
 		],
 		"subgroup": "money",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "💵",
@@ -15426,7 +15426,7 @@
 			" 미국 화폐"
 		],
 		"subgroup": "money",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "💶",
@@ -15443,7 +15443,7 @@
 			" 유로화"
 		],
 		"subgroup": "money",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "💷",
@@ -15460,7 +15460,7 @@
 			" 파운드화"
 		],
 		"subgroup": "money",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "💸",
@@ -15479,7 +15479,7 @@
 			" 지폐"
 		],
 		"subgroup": "money",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "💳",
@@ -15491,7 +15491,7 @@
 			" 카드"
 		],
 		"subgroup": "money",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🧾",
@@ -15507,7 +15507,7 @@
 			" 회계"
 		],
 		"subgroup": "money",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "💹",
@@ -15523,7 +15523,7 @@
 			" 호황"
 		],
 		"subgroup": "money",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "✉",
@@ -15536,7 +15536,7 @@
 			" 편지"
 		],
 		"subgroup": "mail",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📧",
@@ -15549,7 +15549,7 @@
 			" 편지"
 		],
 		"subgroup": "mail",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📨",
@@ -15568,7 +15568,7 @@
 			" 편지"
 		],
 		"subgroup": "mail",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📩",
@@ -15587,7 +15587,7 @@
 			" 편지"
 		],
 		"subgroup": "mail",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📤",
@@ -15606,7 +15606,7 @@
 			" 편지 보내기"
 		],
 		"subgroup": "mail",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📥",
@@ -15625,7 +15625,7 @@
 			" 편지 받기"
 		],
 		"subgroup": "mail",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📦",
@@ -15639,7 +15639,7 @@
 			" 소포 상자"
 		],
 		"subgroup": "mail",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📫",
@@ -15654,7 +15654,7 @@
 			" 표지가 올라간 닫힌 우편함"
 		],
 		"subgroup": "mail",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📪",
@@ -15670,7 +15670,7 @@
 			" 표지가 내려간 닫힌 우편함"
 		],
 		"subgroup": "mail",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📬",
@@ -15685,7 +15685,7 @@
 			" 표지가 올라간 열린 우편함"
 		],
 		"subgroup": "mail",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📭",
@@ -15701,7 +15701,7 @@
 			" 표지가 내려간 열린 우편함"
 		],
 		"subgroup": "mail",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📮",
@@ -15714,7 +15714,7 @@
 			" 편지"
 		],
 		"subgroup": "mail",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🗳",
@@ -15727,7 +15727,7 @@
 			" 투표상자"
 		],
 		"subgroup": "mail",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "✏",
@@ -15737,7 +15737,7 @@
 			" 필기도구"
 		],
 		"subgroup": "writing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "✒",
@@ -15750,7 +15750,7 @@
 			" 펜촉"
 		],
 		"subgroup": "writing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🖋",
@@ -15762,7 +15762,7 @@
 			" 필기도구"
 		],
 		"subgroup": "writing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🖊",
@@ -15773,7 +15773,7 @@
 			" 펜"
 		],
 		"subgroup": "writing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🖌",
@@ -15785,7 +15785,7 @@
 			" 페인트붓"
 		],
 		"subgroup": "writing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🖍",
@@ -15795,7 +15795,7 @@
 			" 크레파스"
 		],
 		"subgroup": "writing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📝",
@@ -15807,7 +15807,7 @@
 			" 메모지"
 		],
 		"subgroup": "writing",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "💼",
@@ -15817,7 +15817,7 @@
 			" 서류 가방"
 		],
 		"subgroup": "office",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📁",
@@ -15828,7 +15828,7 @@
 			" 폴더"
 		],
 		"subgroup": "office",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📂",
@@ -15842,7 +15842,7 @@
 			" 폴더"
 		],
 		"subgroup": "office",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🗂",
@@ -15856,7 +15856,7 @@
 			" 폴더"
 		],
 		"subgroup": "office",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📅",
@@ -15868,7 +15868,7 @@
 			" 캘린더"
 		],
 		"subgroup": "office",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📆",
@@ -15881,7 +15881,7 @@
 			" 캘린더"
 		],
 		"subgroup": "office",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🗒",
@@ -15895,7 +15895,7 @@
 			" 스프링 노트"
 		],
 		"subgroup": "office",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🗓",
@@ -15908,7 +15908,7 @@
 			" 스프링 달력"
 		],
 		"subgroup": "office",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📇",
@@ -15921,7 +15921,7 @@
 			" 카드"
 		],
 		"subgroup": "office",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📈",
@@ -15938,7 +15938,7 @@
 			" 호황"
 		],
 		"subgroup": "office",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📉",
@@ -15954,7 +15954,7 @@
 			" 하향"
 		],
 		"subgroup": "office",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📊",
@@ -15967,7 +15967,7 @@
 			" 막대그래프"
 		],
 		"subgroup": "office",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📋",
@@ -15978,7 +15978,7 @@
 			" 클립보드"
 		],
 		"subgroup": "office",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📌",
@@ -15989,7 +15989,7 @@
 			" 핀"
 		],
 		"subgroup": "office",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📍",
@@ -16003,7 +16003,7 @@
 			" 핀"
 		],
 		"subgroup": "office",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📎",
@@ -16013,7 +16013,7 @@
 			" 클립"
 		],
 		"subgroup": "office",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🖇",
@@ -16025,7 +16025,7 @@
 			" 클립"
 		],
 		"subgroup": "office",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📏",
@@ -16037,7 +16037,7 @@
 			" 직각"
 		],
 		"subgroup": "office",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📐",
@@ -16051,7 +16051,7 @@
 			" 자"
 		],
 		"subgroup": "office",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "✂",
@@ -16064,7 +16064,7 @@
 			" 도구"
 		],
 		"subgroup": "office",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🗃",
@@ -16076,7 +16076,7 @@
 			" 카드 파일 상자"
 		],
 		"subgroup": "office",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🗄",
@@ -16089,7 +16089,7 @@
 			" 파일 보관 서랍장"
 		],
 		"subgroup": "office",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🗑",
@@ -16099,7 +16099,7 @@
 			" 휴지통"
 		],
 		"subgroup": "office",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🔒",
@@ -16111,7 +16111,7 @@
 			" 잠금"
 		],
 		"subgroup": "lock",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🔓",
@@ -16126,7 +16126,7 @@
 			" 잠금풀림"
 		],
 		"subgroup": "lock",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🔏",
@@ -16144,7 +16144,7 @@
 			" 프라이버시"
 		],
 		"subgroup": "lock",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🔐",
@@ -16160,7 +16160,7 @@
 			" 자물쇠와 열쇠"
 		],
 		"subgroup": "lock",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🔑",
@@ -16172,7 +16172,7 @@
 			" 패스워드"
 		],
 		"subgroup": "lock",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🗝",
@@ -16186,7 +16186,7 @@
 			" 오래된 열쇠"
 		],
 		"subgroup": "lock",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🔨",
@@ -16198,7 +16198,7 @@
 			" 해머"
 		],
 		"subgroup": "tool",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🪓",
@@ -16214,7 +16214,7 @@
 			" 쪼개기"
 		],
 		"subgroup": "tool",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "⛏",
@@ -16226,7 +16226,7 @@
 			" 광산"
 		],
 		"subgroup": "tool",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "⚒",
@@ -16240,7 +16240,7 @@
 			" 망치와 곡괭이"
 		],
 		"subgroup": "tool",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🛠",
@@ -16256,7 +16256,7 @@
 			" 스패너"
 		],
 		"subgroup": "tool",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🗡",
@@ -16269,7 +16269,7 @@
 			" 대거"
 		],
 		"subgroup": "tool",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "⚔",
@@ -16281,7 +16281,7 @@
 			" 쌍검"
 		],
 		"subgroup": "tool",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🔫",
@@ -16296,7 +16296,7 @@
 			" 총"
 		],
 		"subgroup": "tool",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🏹",
@@ -16314,7 +16314,7 @@
 			" 활과 화살"
 		],
 		"subgroup": "tool",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🛡",
@@ -16325,7 +16325,7 @@
 			" 보호"
 		],
 		"subgroup": "tool",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🔧",
@@ -16337,7 +16337,7 @@
 			" 렌치"
 		],
 		"subgroup": "tool",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🔩",
@@ -16353,7 +16353,7 @@
 			" 볼트와 너트"
 		],
 		"subgroup": "tool",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "⚙",
@@ -16366,7 +16366,7 @@
 			" 톱니바퀴"
 		],
 		"subgroup": "tool",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🗜",
@@ -16379,7 +16379,7 @@
 			" 콤프레셔"
 		],
 		"subgroup": "tool",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "⚖",
@@ -16396,7 +16396,7 @@
 			" 천칭자리"
 		],
 		"subgroup": "tool",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🦯",
@@ -16410,7 +16410,7 @@
 			" 지팡이"
 		],
 		"subgroup": "tool",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🔗",
@@ -16420,7 +16420,7 @@
 			" 링크 표시"
 		],
 		"subgroup": "tool",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "⛓",
@@ -16432,7 +16432,7 @@
 			" 체인"
 		],
 		"subgroup": "tool",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🧰",
@@ -16447,7 +16447,7 @@
 			" 정비공"
 		],
 		"subgroup": "tool",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🧲",
@@ -16461,7 +16461,7 @@
 			" 편자"
 		],
 		"subgroup": "tool",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "⚗",
@@ -16475,7 +16475,7 @@
 			" 증류기"
 		],
 		"subgroup": " science",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🧪",
@@ -16493,7 +16493,7 @@
 			" 화학"
 		],
 		"subgroup": " science",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🧫",
@@ -16511,7 +16511,7 @@
 			" 페트리 접시"
 		],
 		"subgroup": " science",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🧬",
@@ -16530,7 +16530,7 @@
 			" 진화"
 		],
 		"subgroup": " science",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🔬",
@@ -16544,7 +16544,7 @@
 			" 현미경"
 		],
 		"subgroup": " science",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🔭",
@@ -16557,7 +16557,7 @@
 			" 장비"
 		],
 		"subgroup": " science",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "📡",
@@ -16570,7 +16570,7 @@
 			" 위성 안테나"
 		],
 		"subgroup": " science",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "💉",
@@ -16586,7 +16586,7 @@
 			" 치료"
 		],
 		"subgroup": "medical",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🩸",
@@ -16602,7 +16602,7 @@
 			" 헌혈"
 		],
 		"subgroup": "medical",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "💊",
@@ -16615,7 +16615,7 @@
 			" 약"
 		],
 		"subgroup": "medical",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🩹",
@@ -16626,7 +16626,7 @@
 			" 밴드"
 		],
 		"subgroup": "medical",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🩺",
@@ -16640,7 +16640,7 @@
 			" 청진기"
 		],
 		"subgroup": "medical",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🚪",
@@ -16650,7 +16650,7 @@
 			" 문"
 		],
 		"subgroup": " household",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🛏",
@@ -16662,7 +16662,7 @@
 			" 호텔"
 		],
 		"subgroup": " household",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🛋",
@@ -16676,7 +16676,7 @@
 			" 전등"
 		],
 		"subgroup": " household",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🪑",
@@ -16688,7 +16688,7 @@
 			" 의자"
 		],
 		"subgroup": " household",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🚽",
@@ -16697,7 +16697,7 @@
 			"변기"
 		],
 		"subgroup": " household",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🚿",
@@ -16708,7 +16708,7 @@
 			" 샤워"
 		],
 		"subgroup": " household",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🛁",
@@ -16720,7 +16720,7 @@
 			" 욕조"
 		],
 		"subgroup": " household",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🪒",
@@ -16733,7 +16733,7 @@
 			" 면도칼"
 		],
 		"subgroup": " household",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🧴",
@@ -16749,7 +16749,7 @@
 			" 선크림"
 		],
 		"subgroup": " household",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🧷",
@@ -16761,7 +16761,7 @@
 			" 옷핀"
 		],
 		"subgroup": " household",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🧹",
@@ -16775,7 +16775,7 @@
 			" 빗자루"
 		],
 		"subgroup": " household",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🧺",
@@ -16788,7 +16788,7 @@
 			" 빨래바구니"
 		],
 		"subgroup": " household",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🧻",
@@ -16802,7 +16802,7 @@
 			" 휴지"
 		],
 		"subgroup": " household",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🧼",
@@ -16820,7 +16820,7 @@
 			" 클렌징"
 		],
 		"subgroup": " household",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🧽",
@@ -16834,7 +16834,7 @@
 			" 흡수"
 		],
 		"subgroup": " household",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🧯",
@@ -16848,7 +16848,7 @@
 			" 진화"
 		],
 		"subgroup": " household",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🛒",
@@ -16861,7 +16861,7 @@
 			" 카트"
 		],
 		"subgroup": " household",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🚬",
@@ -16873,7 +16873,7 @@
 			" 흡연 구역 신호"
 		],
 		"subgroup": "other-object",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "⚰",
@@ -16885,7 +16885,7 @@
 			" 죽음"
 		],
 		"subgroup": "other-object",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "⚱",
@@ -16899,7 +16899,7 @@
 			" 죽음"
 		],
 		"subgroup": "other-object",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🗿",
@@ -16913,7 +16913,7 @@
 			" 석상"
 		],
 		"subgroup": "other-object",
-		"group": " Activities"
+		"group": " Objects"
 	},
 	{
 		"icon": "🏧",
