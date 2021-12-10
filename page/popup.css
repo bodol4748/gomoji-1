@@ -5,18 +5,29 @@
     margin: 30px;
   }
 
+  body {
+    background: #F4F9F9;
+  }
   nav{
     overflow: hidden;
     width: 400px;
+    /* justify-content: center; */
   }
 
+  .row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
   nav li{
     float : left;
     clear: right;
     margin: 10px;
     padding: 5px;
+    border-radius: 10px;
     list-style: none;
-    background: orange;
+    background: #A4EBF3;
+
   }
 
   nav div{
@@ -24,25 +35,32 @@
   }
 
   nav li:hover{
-    background-color: yellow;
+    background-color: #CCF2F4;
   }
-  
+
   nav li:active{
-    background-color: #DFEE00;
+    background-color: #CCF2F4;
     box-shadow: 5px 5px 5px gray inset;
   }
-  
+
   #emojiList, #useEmojiList{
       font-size: 25px;
       margin: 15px;
   }
 
+  #searchArea {
+    size: 80;
+  }
+
   header{
-    background-color: #DFEE00;
+    background-color: #CCF2F4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
   footer{
-    background-color: #DFEE00;
+    background-color: #CCF2F4;
     position:fixed;
     min-width: 100%;
     max-width:none;
